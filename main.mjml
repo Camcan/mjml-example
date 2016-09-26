@@ -1,0 +1,39 @@
+<mjml>
+  <mj-body>
+    <mj-container>
+      <mj-section>
+        <mj-column  width="40%">
+          <mj-image src="./logo-small.png">
+        </mj-column>
+        <mj-column  width="60%">
+          <mj-text font-size="20px" line-height="5px">
+            Campbell Hawkes
+          </mj-text>
+          <mj-divider border-width="1px" border-color="lightgrey" />
+          <mj-text line-height="10px">
+            mr.campbell.hawkes@gmail.com
+          </mj-text>
+          <mj-text line-height="10px">
+            0278418623
+          </mj-text>
+        </mj-column>
+        <mj-divider border-width="1px" width="100%" border-color="lightgrey" />
+      </mj-section>
+      <mj-section  padding-top="0px">
+        <mj-social
+          mode="horizontal"
+          text-mode="false"
+          padding="10px 50px"
+          container-background-color="grey"
+          line-height="10px"
+          display="linkedin:url github twitter" 
+          github-content="" 
+          github-icon-color="white" 
+          github-icon="./github-circle.png"
+          linkedin-href="https://www.linkedin.com/in/campbellhawkes"
+          github-href="http://github.com/camcan" 
+          twitter-href="http://twitter.com/letters_to_cam"/>
+      </mj-section>
+    </mj-container>
+  </mj-body>
+</mjml>

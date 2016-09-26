@@ -1,0 +1,15 @@
+{
+  "name": "mj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "transpile": "mjml main.mjml -o index.html",
+    "watch": "mjml -w main.mjml -o index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
