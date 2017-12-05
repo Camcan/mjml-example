@@ -1,39 +1,214 @@
 <mjml>
-  <mj-body>
-    <mj-container>
-      <mj-section>
-        <mj-column  width="40%">
-          <mj-image src="./logo-small.png">
-        </mj-column>
-        <mj-column  width="60%">
-          <mj-text font-size="20px" line-height="5px">
-            Campbell Hawkes
-          </mj-text>
-          <mj-divider border-width="1px" border-color="lightgrey" />
-          <mj-text line-height="10px">
-            mr.campbell.hawkes@gmail.com
-          </mj-text>
-          <mj-text line-height="10px">
-            0278418623
-          </mj-text>
-        </mj-column>
-        <mj-divider border-width="1px" width="100%" border-color="lightgrey" />
-      </mj-section>
-      <mj-section  padding-top="0px">
-        <mj-social
-          mode="horizontal"
-          text-mode="false"
-          padding="10px 50px"
-          container-background-color="grey"
-          line-height="10px"
-          display="linkedin:url github twitter" 
-          github-content="" 
-          github-icon-color="white" 
-          github-icon="./github-circle.png"
-          linkedin-href="https://www.linkedin.com/in/campbellhawkes"
-          github-href="http://github.com/camcan" 
-          twitter-href="http://twitter.com/letters_to_cam"/>
-      </mj-section>
-    </mj-container>
-  </mj-body>
+
+<mj-body>
+
+<mj-container background-color="#d6dde5">
+
+<mj-section full-width="full-width" padding-bottom="20">
+
+</mj-section>
+
+<mj-navbar background-color="#ffffff">
+
+<mj-column width="50%">
+<mj-image href="https://manukarx.co.nz/?rfsn=704636.f24061" src="https://cdn.shopify.com/s/files/1/1882/1455/files/manukarx_logo_220x.png?v=1494411128" alt="Manuka RX New Zealand" align="center" padding="10">
+
+</mj-image>
+
+</mj-column>
+
+
+
+</mj-navbar>
+
+<mj-section background-color="#f8ef09" padding-bottom="0" padding-top="0">
+
+<mj-column width="70%">
+
+<mj-image src="https://cdn.shopify.com/s/files/1/1882/1455/files/manuka_4fab1dc8-886d-4a7c-b1ef-e0b44e12b16c_2048x.jpg?v=1494409711" alt="New Zealand's Wild Manuka Forest" align="center" border="none" width="650" height="250" padding-left="0" padding-right="0" padding-bottom="0" padding-top="0">
+
+
+
+</mj-image>
+
+</mj-column>
+
+<mj-column width="30%" vertical-align="middle">
+
+<mj-text align="left" color="#000" font-size="27" font-spacing="30" line-spacing="30" padding-left="25" padding-right="15" padding-bottom="25" padding-top="25">
+
+<p>ManukaRx ointment;</p>
+
+<p>‘No. 8 wire’</p>
+
+<p>of skin remedies</p>
+
+</mj-text>
+
+</mj-column>
+
+
+
+</mj-section>
+
+
+
+<mj-section padding="0px 0px" background-color="#FFFFFF">
+
+<mj-column full-width="full-width">
+
+<mj-text align="center" font-size="26" line-height="30px" font-family="Alice, Helvetica, Arial, sans-serif">
+
+<i>Nature's Medical Cabinet</i>
+
+</mj-text>
+
+<mj-divider width="20px" padding="5px 0" border-width="2px" border-color="#000000" />
+
+<mj-text align="center" padding="0px 40px">
+
+<p>
+
+When Maori arrived they discovered a unique environment of abundant food and water. Most precious of all, they discovered an effective natural medicine cabinet.
+
+</p>
+
+<p>
+
+There were plants for every purpose. There was horopito for fungal infections, kawakawa for indigestion, rimu for burns and ngaio for ulcers. And there was one plant that fulfilled almost every purpose. The Swiss army knife of medicinal plants is <i>leptospermum scoparium</i>, usually known as manuka.
+
+</p>
+
+<p>ManukaRx is a unique, topical skin ointment combining manuka oil with beeswax, castor seed oil, sunflower seed oil, tribehenin, cocoa butter, shea butter, calendula flower oil and turmeric oil, produced right here in Aotearoa New Zealand.
+
+</p>
+
+</mj-text>
+
+</mj-column>
+
+</mj-section>
+
+<mj-section background-color="#2f323b" padding-bottom="5" padding-top="0">
+
+<mj-group>
+
+<mj-column width="15%" vertical-align="middle">
+
+<mj-image src="https://cdn.shopify.com/s/files/1/1882/1455/products/manuka_sample_prop_530x@2x.png?v=1492136000" alt="ManukaRX Sample" align="center" border="none" width="80" padding-left="0" padding-right="0" padding-bottom="10" padding-top="0">
+
+</mj-image>
+
+</mj-column>
+
+<mj-column width="80%" vertical-align="middle">
+
+<mj-group>
+
+<mj-column width="60%" align="left">
+
+<mj-text align="left" color="#fff" font-size="18" padding-left="25" padding-right="25" padding-bottom="0" padding-top="0">
+
+<p>GET A SAMPLE FOR <span style="font-weight: bold;color: #f8ef09;">$4.95</span></p>
+
+
+
+</mj-text>
+
+</mj-column>
+
+<mj-column width="40%" vertical-align="middle">
+
+<mj-button background-color="#eee" color="#2f323b" font-size="18px" align="center" vertical-align="middle" padding="0px 5px" border-radius="3px" href="https://manukarx.co.nz/products/manukarx-ointment-free-sample" padding-left="5" padding-right="5" padding-bottom="5" padding-top="10">
+
+<b>ORDER NOW</b>
+
+</mj-button>
+
+</mj-column>
+
+<mj-group>
+
+</mj-column>
+
+</mj-group>
+
+</mj-section>
+
+<mj-section background-color="#FFF" padding="20px 20px 20px">
+
+<mj-column width="50%">
+
+<mj-text align="left" font-size="18" line-height="10px" color="#000" font-family="Alice, Helvetica, Arial, sans-serif">
+
+Known Applications:
+
+</mj-text>
+
+<mj-text align="left" padding="0px 40px" line-height="1">
+
+<p>- Minor burns and scalds</p>
+
+<p>- Sunburn</p>
+
+<p>-  Rashes and chafing</p>
+
+<p>-  Insect bites</p>
+
+<p>-  Acne</p>
+
+<p>-  Splinters and stings</p>
+
+<p>- As natural lip moistener</p>
+
+</mj-text>
+
+</mj-column>
+
+<mj-column width="50%" align="left" vertical-align="bottom" padding-bottom="0">
+
+<mj-image src="https://cdn.shopify.com/s/files/1/1882/1455/products/manukarx-one-bottle_345x345@2x.png?v=1498509412" height="200"></mj-image>
+
+</mj-column>
+
+
+
+</mj-section>
+
+<mj-section background-color="#2f323b" padding-top="5" padding-bottom="5">
+
+<mj-inline-links base-url="https://mjml.io" ico-color="#ffffff">
+
+<mj-link href="https://manukarx.co.nz/pages/our-story" color="#ffffff" font-size="10px">Our Story</mj-link>
+
+<mj-link href="https://manukarx.co.nz/pages/testimonials" color="#ffffff" font-size="10px">Testimonials</mj-link>
+
+<mj-link href="https://manukarx.co.nz/pages/testimonials" color="#ffffff" font-size="10px">Ingredients</mj-link>
+
+<mj-link href="https://manukarx.co.nz/pages/faqs" color="#ffffff" font-size="10px">FAQ</mj-link>
+
+</mj-inline-links>
+
+</mj-section>
+
+<mj-section padding="0px 0px" background-color="#FFFFFF">
+
+<mj-column full-width="full-width">
+
+<mj-text align="center" font-size="10" line-height="30px" font-family="Alice, Helvetica, Arial, sans-serif">
+
+<i>© 2017, ManukaRX</i>
+
+</mj-text>
+
+</mj-text>
+
+</mj-column>
+
+</mj-section>
+
+</mj-container>
+
+</mj-body>
+
 </mjml>
