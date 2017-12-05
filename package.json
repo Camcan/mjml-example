@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "mjml": "^3.3.5"
+  },
   "devDependencies": {},
   "scripts": {
     "transpile": "mjml main.mjml -o index.html",
